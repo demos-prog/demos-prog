@@ -3,4 +3,4 @@ I’m [Front-end developer](https://sites.google.com/view/burlykodmitry/%D0%B3%D
 
 I’m currently learning but really want to start it as a pro
 
-Skills: REACT / JS / HTML / CSS
+Skills: **REACT** / **JS** / **HTML** / **CSS**
