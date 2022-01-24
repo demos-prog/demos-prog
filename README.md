@@ -9,4 +9,4 @@ Skills:
 
 Contacts:
 <a href="https://t.me/Dmitry_web">
- <img align="left" alt="Burlyko Dmitry | Telegram"  height="60" width="60" src="https://e7.pngegg.com/pngimages/32/447/png-clipart-computer-icons-telegram-business-partnership-telegram-icon-blue-angle.png" /></a>
+ <img align="left" alt="Burlyko Dmitry | Telegram"  height="60" width="60" src="https://www.motormarkett.com/wp-content/uploads/2020/10/Telegram-icon-on-transparent-background-PNG.png" /></a>
