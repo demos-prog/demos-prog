@@ -8,6 +8,5 @@ Skills:
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 Contacts:
-<a href=" https://t.me/Dmitry_web">
-  <img align="left" alt="Burlyko Dmitry | Telegram" width="22px" https://e7.pngegg.com/pngimages/32/447/png-clipart-computer-icons-telegram-business-partnership-telegram-icon-blue-angle.png" />
-</a>
+<a href="https://t.me/Dmitry_web">
+ <img align="left" alt="Burlyko Dmitry | Telegram" width="22px" src="https://e7.pngegg.com/pngimages/32/447/png-clipart-computer-icons-telegram-business-partnership-telegram-icon-blue-angle.png" /></a>
