@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dmitry
-### I’m a [Front-end/Full-stack JavaScript developer](https://portfolio2-two-blue.vercel.app/)
+### I’m a [Full-stack JavaScript developer](https://portfolio2-two-blue.vercel.app/)
 
 Skills:
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
